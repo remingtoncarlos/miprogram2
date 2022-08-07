@@ -22,10 +22,11 @@ public class Notas {
             n2 = n2 * p2;
             n3 = n3 * p2;
             n4 = n4 * p4;
+
             total = n1 + n2 + n3 + n4;
-
-            System.out.println("La nota definitiva es: " + total + "\n");
-
+            System.out.print(" -----------------------------------------\n");
+               System.out.println("La nota definitiva es: " + total + "\n");
+            System.out.print(" -----------------------------------------\n");
         } // fin for
 
         System.out.print("\n\n CUARTA MODIFICACIÓN \n\n ");

@@ -10,6 +10,7 @@ public class Notas {
 
         System.out.print("\n PROGRAMA REALIZADO PARA PROBAR Visual Code + GIT + GitHub:\n");
         System.out.print("Por: Carlos Alberto Alegria \n");
+        System.out.print("INGENIERÍA DEL SOFTWARE 2 \n");
 
         for (int i = 1; i <= 3; i++) {
             System.out.print("Estudiante: " + i + "\n");
@@ -31,8 +32,6 @@ public class Notas {
             System.out.println("La nota definitiva es: " + total + "\n");
 
         } // fin for
-
-        System.out.print("\n\n TERCERA MODIFICACIÓN \n\n ");
 
     }// fin guncion principal main
 

@@ -8,6 +8,9 @@ public class Notas {
         Scanner entrada2 = new Scanner(System.in);
         char tecla = 's';
 
+        System.out.print("\n PROGRAMA REALIZADO PARA PROBAR Visual Code + GIT + GitHub:\n");
+        System.out.print("Por: Carlos Alberto Alegria \n");
+
         for (int i = 1; i <= 3; i++) {
             System.out.print("Estudiante: " + i + "\n");
             System.out.print("Nota participación: ");
@@ -27,8 +30,8 @@ public class Notas {
 
             System.out.println("La nota definitiva es: " + total + "\n");
 
-        }
+        } // fin for
 
-    }
+    }// fin guncion principal main
 
-}
+} // fin clase
